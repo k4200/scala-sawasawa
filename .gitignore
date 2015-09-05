@@ -62,3 +62,6 @@ sbt
 
 logs
 sandbox/db
+
+app/models/SchemaVersion.scala
+test/models/SchemaVersionSpec.scala
